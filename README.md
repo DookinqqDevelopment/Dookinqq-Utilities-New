@@ -12,12 +12,14 @@ Public on: 2026
 
 -NCP movement semi-disabler
 
--3 Instakills
+-4 Insta-Kills
 
 -Kitbot
 
 -Themis bypasses
 
 -AuthMe password cracker
+
+-First automated Bow Insta-Killer
 
 And more...
