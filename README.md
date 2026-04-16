@@ -6,8 +6,6 @@ REQUIRES METEOR
 Public on: 2026
 
 # Features:
--720 km/h NCP flight bypass (with Mio)
-
 -Custom GUI
 
 -NCP movement semi-disabler
