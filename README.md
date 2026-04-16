@@ -6,18 +6,20 @@ REQUIRES METEOR
 Public on: 2026
 
 # Features:
--Custom GUI
+- Custom GUI
 
--NCP movement semi-disabler
+- NCP movement semi-disabler
 
--4 Insta-Kills
+- 4 Insta-Kills
 
--Kitbot
+- Kitbot
 
--Themis bypasses
+- Themis bypasses
 
--AuthMe password cracker
+- AuthMe password cracker
 
--First automated Bow Insta-Killer
+- First automated Bow Insta-Killer
+
+- Legacy Vulcan disabler
 
 And more...
