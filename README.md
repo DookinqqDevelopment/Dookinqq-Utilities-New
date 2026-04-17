@@ -8,7 +8,7 @@ Public on: 2026
 # Features:
 - Custom GUI
 
-- NCP movement semi-disabler
+- NCP movement disabler (Now fully working!)
 
 - 4 Insta-Kills
 
