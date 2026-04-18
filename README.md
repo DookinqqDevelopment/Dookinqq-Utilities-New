@@ -12,7 +12,7 @@ Public on: 2026
 
 - Custom GUI
 
-- NCP movement disabler (Now fully working!)
+- NCP movement disabler
 
 - 4 Insta-Kills
 
