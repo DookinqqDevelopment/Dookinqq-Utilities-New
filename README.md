@@ -26,6 +26,8 @@ Public on: 2026
 
 - Legacy Vulcan disabler
 
-And more
+- Advanced chat encryptor
+
+- And more...
 
 </div>
