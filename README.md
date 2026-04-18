@@ -1,11 +1,16 @@
 <div align="center">
 
 # Dookinqq-Utilities-New
+
+<div align="left">
+
 Dookinqq Utilities for 1.21.8 updated and public!
 
 REQUIRES METEOR
 
 Public on: 2026
+
+<div align="center">
 
 # Features:
 
@@ -28,9 +33,5 @@ Public on: 2026
 - Legacy Vulcan disabler
 
 And more...
-
-<div align="center">
-
-# R4d3tzky on top!
 
 </div>
