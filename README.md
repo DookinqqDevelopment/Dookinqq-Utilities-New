@@ -2,19 +2,13 @@
 
 # Dookinqq-Utilities-New
 
-<div align="left">
-
 Dookinqq Utilities for 1.21.8 updated and public!
 
 REQUIRES METEOR
 
 Public on: 2026
 
-<div align="center">
-
 # Features:
-
-<div align="left">
 
 - Custom GUI
 
