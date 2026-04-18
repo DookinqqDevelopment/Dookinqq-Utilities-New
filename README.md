@@ -26,6 +26,6 @@ Public on: 2026
 
 - Legacy Vulcan disabler
 
-And more...
+And more
 
 </div>
