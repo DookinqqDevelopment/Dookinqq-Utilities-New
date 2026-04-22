@@ -1,10 +1,10 @@
 <div align="center">
 
-# Dookinqq-Utilities-New
+# Toms9 aka. Omicron V2
 
-Dookinqq Utilities for 1.21.8 updated and public!
+Continuation of the discontinued Dookinqq Utilities. Complete rewrite and new stuff. Designed for anarchy servers that have NCP anticheat.
 
-REQUIRES METEOR
+REQUIRES METEOR AND MIO
 
 Public on: 2026
 
