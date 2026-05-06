@@ -1,10 +1,10 @@
 <div align="center">
 
-# Toms9 aka. Omicron V2
+# Kalisense
 
-Continuation of the discontinued Dookinqq Utilities. Complete rewrite and new stuff. Designed for anarchy servers that have NCP anticheat.
+Continuation of the discontinued Toms9. Complete rewrite and new stuff. Designed for anarchy servers that have NCP anticheat. FORK OF METEOR CLIENT!
 
-REQUIRES METEOR AND MIO
+REQUIRES MIO
 
 Public on: 2026
 
